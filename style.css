@@ -1,0 +1,14 @@
+body{
+    background: white;
+}
+
+#button{
+    display: block;
+}
+#billede{
+    max-width: 500px;
+    display: block;
+}
+#form{
+    display: block;
+}
