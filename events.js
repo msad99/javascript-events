@@ -20,11 +20,11 @@ function focus(){
 }
 
 function mouse(){
-    billede.src="billeder/tmc.png";
+    billede.src="billeder/Tmc.png";
 }
 
 function keyd(){
-    billede.src = "billeder/tmcStroked.png";
+    billede.src = "billeder/TmcStroked.png";
 }
 
 function keyup(){
